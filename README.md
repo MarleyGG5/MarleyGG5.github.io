@@ -16,5 +16,5 @@ python3 -m http.server 8000
 ## Structure
 
 - `index.html` — single-page site markup
-- `style.css` — theme, layout, responsive rules and animations
-- `main.js` — mobile navigation, scrollspy, reveal-on-scroll and footer year
+- `style/style.css` — theme, layout, responsive rules and animations
+- `js/main.js` — mobile navigation, scrollspy, reveal-on-scroll and footer year
